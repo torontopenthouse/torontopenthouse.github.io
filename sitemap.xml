@@ -2,7 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://torontopenthouse.github.io/post/building/</loc>
+    <lastmod>2017-03-20T19:22:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://torontopenthouse.github.io/post/location/</loc>
+    <lastmod>2017-03-20T19:22:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://torontopenthouse.github.io/post/</loc>
+    <lastmod>2017-03-20T19:22:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://torontopenthouse.github.io/</loc>
+    <lastmod>2017-03-20T19:22:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
